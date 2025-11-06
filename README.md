@@ -84,7 +84,13 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 | Sawtooth  | 8.08v          |   1.642ms          | 
 | Square    | 9.60v          |     6.052ms        |
 ---
+## Model Graph
 
+SQUARE WAVE
+<img width="1280" height="728" alt="image" src="https://github.com/user-attachments/assets/9b22ae56-fd3e-4656-ab0d-2c955d9e01eb" />
+
+SINE WAVE
+<img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/3581e92a-c415-4d8c-b4f0-060aa5f5b932" />
 
 
 
