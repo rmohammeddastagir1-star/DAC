@@ -96,10 +96,9 @@ SINE WAVE
 
 
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
+![WhatsApp Image 2025-11-06 at 19 43 45_1e970ea3](https://github.com/user-attachments/assets/d0108fa5-3ef3-4ce9-a407-1e7a7c7872e3)
+![WhatsApp Image 2025-11-06 at 19 44 02_68daa2b0](https://github.com/user-attachments/assets/ec7b4a7e-9d00-48ba-a637-429f8872ffee)
 
-
-![IMG-20250921-WA0063](https://github.com/user-attachments/assets/9c526b28-b41f-446f-b518-7e826f8dd560)
-![IMG-20250921-WA0064](https://github.com/user-attachments/assets/cbf5771a-e2df-45e3-9886-7681a60248ac)
 
 
 ## Result
